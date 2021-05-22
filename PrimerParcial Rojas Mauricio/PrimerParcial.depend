@@ -1,0 +1,1038 @@
+# depslib dependency file v1.0
+1621033173 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+
+1621033344 c:\users\mauri\desktop\proyecto para tp2\primerparcial\juegos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621037326 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+	"cliente.h"
+
+1621032478 c:\users\mauri\desktop\proyecto para tp2\primerparcial\datawarehouse.h
+	"juegos.h"
+
+1621032658 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+
+1621037431 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1621037326 c:\users\mauri\desktop\proyecto para tp2\primerparcial\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621032658 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial check (sigo aca)\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+
+1621032478 c:\users\mauri\desktop\proyecto para tp2\primerparcial check (sigo aca)\datawarehouse.h
+	"juegos.h"
+
+1621033344 c:\users\mauri\desktop\proyecto para tp2\primerparcial check (sigo aca)\juegos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621033173 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial check (sigo aca)\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+
+1621292620 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial check (sigo aca)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+	"cliente.h"
+	"alquiler.h"
+
+1621037326 c:\users\mauri\desktop\proyecto para tp2\primerparcial check (sigo aca)\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621200921 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial check (sigo aca)\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1621292620 c:\users\mauri\desktop\proyecto para tp2\primerparcial check (sigo aca)\alquiler.h
+
+1621292699 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial check (sigo aca)\alquiler.c
+	"alquiler.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621477167 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial check (sigo aca) - copia\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1621477240 c:\users\mauri\desktop\proyecto para tp2\primerparcial check (sigo aca) - copia\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621032658 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial check (sigo aca) - copia\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+
+1621032478 c:\users\mauri\desktop\proyecto para tp2\primerparcial check (sigo aca) - copia\datawarehouse.h
+	"juegos.h"
+
+1621033344 c:\users\mauri\desktop\proyecto para tp2\primerparcial check (sigo aca) - copia\juegos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621456729 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial check (sigo aca) - copia\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+
+1621458262 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial check (sigo aca) - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+	"cliente.h"
+	"alquiler.h"
+
+1621459321 c:\users\mauri\desktop\proyecto para tp2\primerparcial check (sigo aca) - copia\alquiler.h
+
+1621459887 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial check (sigo aca) - copia\alquiler.c
+	"alquiler.h"
+	"cliente.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621481631 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial (sigo aca mostrdesc)\alquiler.c
+	"alquiler.h"
+	"cliente.h"
+	"juegos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621481497 c:\users\mauri\desktop\proyecto para tp2\primerparcial (sigo aca mostrdesc)\alquiler.h
+	"cliente.h"
+
+1621479358 c:\users\mauri\desktop\proyecto para tp2\primerparcial (sigo aca mostrdesc)\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621033344 c:\users\mauri\desktop\proyecto para tp2\primerparcial (sigo aca mostrdesc)\juegos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621479358 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial (sigo aca mostrdesc)\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1621032658 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial (sigo aca mostrdesc)\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+
+1621032478 c:\users\mauri\desktop\proyecto para tp2\primerparcial (sigo aca mostrdesc)\datawarehouse.h
+	"juegos.h"
+
+1621456729 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial (sigo aca mostrdesc)\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+
+1621479579 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial (sigo aca mostrdesc)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+	"cliente.h"
+	"alquiler.h"
+
+1621532817 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial (sigo aca mostrdesc) -20-05 13.20\alquiler.c
+	"alquiler.h"
+	"cliente.h"
+	"juegos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621535871 c:\users\mauri\desktop\proyecto para tp2\primerparcial (sigo aca mostrdesc) -20-05 13.20\alquiler.h
+	"cliente.h"
+	"juegos.h"
+
+1621535986 c:\users\mauri\desktop\proyecto para tp2\primerparcial (sigo aca mostrdesc) -20-05 13.20\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621528530 c:\users\mauri\desktop\proyecto para tp2\primerparcial (sigo aca mostrdesc) -20-05 13.20\juegos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621535926 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial (sigo aca mostrdesc) -20-05 13.20\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1621528530 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial (sigo aca mostrdesc) -20-05 13.20\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+
+1621032478 c:\users\mauri\desktop\proyecto para tp2\primerparcial (sigo aca mostrdesc) -20-05 13.20\datawarehouse.h
+	"juegos.h"
+
+1621535646 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial (sigo aca mostrdesc) -20-05 13.20\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+
+1621531750 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial (sigo aca mostrdesc) -20-05 13.20\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+	"cliente.h"
+	"alquiler.h"
+	"juegos.h"
+
+1621546135 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial (sigo aca mostrdesc) -20-05 13.20 2 warnings-sigoaca\alquiler.c
+	"alquiler.h"
+	"cliente.h"
+	"juegos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621542851 c:\users\mauri\desktop\proyecto para tp2\primerparcial (sigo aca mostrdesc) -20-05 13.20 2 warnings-sigoaca\alquiler.h
+	"cliente.h"
+	"juegos.h"
+
+1621538592 c:\users\mauri\desktop\proyecto para tp2\primerparcial (sigo aca mostrdesc) -20-05 13.20 2 warnings-sigoaca\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621528530 c:\users\mauri\desktop\proyecto para tp2\primerparcial (sigo aca mostrdesc) -20-05 13.20 2 warnings-sigoaca\juegos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621548426 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial (sigo aca mostrdesc) -20-05 13.20 2 warnings-sigoaca\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquiler.h"
+
+1621544479 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial (sigo aca mostrdesc) -20-05 13.20 2 warnings-sigoaca\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+
+1621032478 c:\users\mauri\desktop\proyecto para tp2\primerparcial (sigo aca mostrdesc) -20-05 13.20 2 warnings-sigoaca\datawarehouse.h
+	"juegos.h"
+
+1621535646 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial (sigo aca mostrdesc) -20-05 13.20 2 warnings-sigoaca\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+
+1621548426 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial (sigo aca mostrdesc) -20-05 13.20 2 warnings-sigoaca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+	"cliente.h"
+	"alquiler.h"
+	"juegos.h"
+
+1621562743 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial hacer vald\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquiler.h"
+	"cliente.h"
+	"juegos.h"
+	"validaciones.h"
+
+1621542851 c:\users\mauri\desktop\proyecto para tp2\primerparcial hacer vald\alquiler.h
+	"cliente.h"
+	"juegos.h"
+
+1621538592 c:\users\mauri\desktop\proyecto para tp2\primerparcial hacer vald\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621528530 c:\users\mauri\desktop\proyecto para tp2\primerparcial hacer vald\juegos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621562555 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial hacer vald\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquiler.h"
+	"validaciones.h"
+
+1621544479 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial hacer vald\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+
+1621032478 c:\users\mauri\desktop\proyecto para tp2\primerparcial hacer vald\datawarehouse.h
+	"juegos.h"
+
+1621535646 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial hacer vald\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+
+1621548511 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial hacer vald\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+	"cliente.h"
+	"alquiler.h"
+	"juegos.h"
+
+1621561169 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial hacer vald\validaciones.c
+	"validaciones.h"
+
+1621561169 c:\users\mauri\desktop\proyecto para tp2\primerparcial hacer vald\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1621544479 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial hacer vald - copia\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+
+1621032478 c:\users\mauri\desktop\proyecto para tp2\primerparcial hacer vald - copia\datawarehouse.h
+	"juegos.h"
+
+1621563849 c:\users\mauri\desktop\proyecto para tp2\primerparcial hacer vald - copia\juegos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621565904 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial hacer vald - copia\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+
+1621570228 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial hacer vald - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+	"cliente.h"
+	"alquiler.h"
+	"juegos.h"
+
+1621569435 c:\users\mauri\desktop\proyecto para tp2\primerparcial hacer vald - copia\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621567645 c:\users\mauri\desktop\proyecto para tp2\primerparcial hacer vald - copia\alquiler.h
+	"cliente.h"
+	"juegos.h"
+
+1621561169 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial hacer vald - copia\validaciones.c
+	"validaciones.h"
+
+1621561169 c:\users\mauri\desktop\proyecto para tp2\primerparcial hacer vald - copia\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1621567898 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial hacer vald - copia\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquiler.h"
+	"cliente.h"
+	"juegos.h"
+	"validaciones.h"
+
+1621571992 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial hacer vald - copia\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquiler.h"
+	"validaciones.h"
+
+1621567898 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial c valid - copia\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquiler.h"
+	"cliente.h"
+	"juegos.h"
+	"validaciones.h"
+
+1621573717 c:\users\mauri\desktop\proyecto para tp2\primerparcial c valid - copia\alquiler.h
+	"cliente.h"
+	"juegos.h"
+
+1621573452 c:\users\mauri\desktop\proyecto para tp2\primerparcial c valid - copia\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621573876 c:\users\mauri\desktop\proyecto para tp2\primerparcial c valid - copia\juegos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621561169 c:\users\mauri\desktop\proyecto para tp2\primerparcial c valid - copia\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1621573452 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial c valid - copia\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquiler.h"
+	"validaciones.h"
+
+1621544479 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial c valid - copia\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+
+1621574310 c:\users\mauri\desktop\proyecto para tp2\primerparcial c valid - copia\datawarehouse.h
+	"juegos.h"
+
+1621565904 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial c valid - copia\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+
+1621573998 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial c valid - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+	"cliente.h"
+	"alquiler.h"
+	"juegos.h"
+
+1621561169 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial c valid - copia\validaciones.c
+	"validaciones.h"
+
+1621567898 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial c valid y documt - copia\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquiler.h"
+	"cliente.h"
+	"juegos.h"
+	"validaciones.h"
+
+1621621818 c:\users\mauri\desktop\proyecto para tp2\primerparcial c valid y documt - copia\alquiler.h
+	"cliente.h"
+	"juegos.h"
+
+1621622006 c:\users\mauri\desktop\proyecto para tp2\primerparcial c valid y documt - copia\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621573876 c:\users\mauri\desktop\proyecto para tp2\primerparcial c valid y documt - copia\juegos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621576917 c:\users\mauri\desktop\proyecto para tp2\primerparcial c valid y documt - copia\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1621621703 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial c valid y documt - copia\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquiler.h"
+	"validaciones.h"
+
+1621574417 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial c valid y documt - copia\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+
+1621574310 c:\users\mauri\desktop\proyecto para tp2\primerparcial c valid y documt - copia\datawarehouse.h
+	"juegos.h"
+
+1621565904 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial c valid y documt - copia\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+
+1621622006 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial c valid y documt - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+	"cliente.h"
+	"alquiler.h"
+	"juegos.h"
+
+1621576917 source:c:\users\mauri\desktop\proyecto para tp2\primerparcial c valid y documt - copia\validaciones.c
+	"validaciones.h"
+
+1621627143 source:c:\users\mauri\desktop\pp\primerparcial - cp\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquiler.h"
+	"cliente.h"
+	"juegos.h"
+	"validaciones.h"
+
+1621621818 c:\users\mauri\desktop\pp\primerparcial - cp\alquiler.h
+	"cliente.h"
+	"juegos.h"
+
+1621622006 c:\users\mauri\desktop\pp\primerparcial - cp\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621628013 c:\users\mauri\desktop\pp\primerparcial - cp\juegos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621576917 c:\users\mauri\desktop\pp\primerparcial - cp\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1621628013 source:c:\users\mauri\desktop\pp\primerparcial - cp\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquiler.h"
+	"validaciones.h"
+
+1621628586 source:c:\users\mauri\desktop\pp\primerparcial - cp\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+
+1621628721 c:\users\mauri\desktop\pp\primerparcial - cp\datawarehouse.h
+	"juegos.h"
+
+1621576917 source:c:\users\mauri\desktop\pp\primerparcial - cp\validaciones.c
+	"validaciones.h"
+
+1621624857 source:c:\users\mauri\desktop\pp\primerparcial - cp\informes.c
+
+1621628615 source:c:\users\mauri\desktop\pp\primerparcial - cp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+	"cliente.h"
+	"alquiler.h"
+	"juegos.h"
+
+1621626438 source:c:\users\mauri\desktop\pp\primerparcial - cp\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+
+1621635777 source:c:\users\mauri\desktop\pp\primerparcial cp\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquiler.h"
+	"cliente.h"
+	"juegos.h"
+	"validaciones.h"
+
+1621635820 c:\users\mauri\desktop\pp\primerparcial cp\alquiler.h
+	"cliente.h"
+	"juegos.h"
+
+1621636071 c:\users\mauri\desktop\pp\primerparcial cp\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621628013 c:\users\mauri\desktop\pp\primerparcial cp\juegos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621576917 c:\users\mauri\desktop\pp\primerparcial cp\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1621636093 source:c:\users\mauri\desktop\pp\primerparcial cp\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquiler.h"
+	"validaciones.h"
+
+1621624857 source:c:\users\mauri\desktop\pp\primerparcial cp\informes.c
+
+1621626438 source:c:\users\mauri\desktop\pp\primerparcial cp\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+
+1621576917 source:c:\users\mauri\desktop\pp\primerparcial cp\validaciones.c
+	"validaciones.h"
+
+1621634492 source:c:\users\mauri\desktop\pp\primerparcial cp\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+
+1621634515 c:\users\mauri\desktop\pp\primerparcial cp\datawarehouse.h
+	"juegos.h"
+	"cliente.h"
+
+1621636022 source:c:\users\mauri\desktop\pp\primerparcial cp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+	"cliente.h"
+	"alquiler.h"
+	"juegos.h"
+
+1621635777 source:c:\users\mauri\desktop\pp\primerparcial cp2\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquiler.h"
+	"cliente.h"
+	"juegos.h"
+	"validaciones.h"
+
+1621635820 c:\users\mauri\desktop\pp\primerparcial cp2\alquiler.h
+	"cliente.h"
+	"juegos.h"
+
+1621636071 c:\users\mauri\desktop\pp\primerparcial cp2\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621628013 c:\users\mauri\desktop\pp\primerparcial cp2\juegos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621576917 c:\users\mauri\desktop\pp\primerparcial cp2\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1621634492 source:c:\users\mauri\desktop\pp\primerparcial cp2\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+
+1621634515 c:\users\mauri\desktop\pp\primerparcial cp2\datawarehouse.h
+	"juegos.h"
+	"cliente.h"
+
+1621626438 source:c:\users\mauri\desktop\pp\primerparcial cp2\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+
+1621639230 source:c:\users\mauri\desktop\pp\primerparcial cp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+	"cliente.h"
+	"alquiler.h"
+	"juegos.h"
+	"informes.h"
+
+1621576917 source:c:\users\mauri\desktop\pp\primerparcial cp2\validaciones.c
+	"validaciones.h"
+
+1621639537 source:c:\users\mauri\desktop\pp\primerparcial cp2\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquiler.h"
+	"validaciones.h"
+
+1621639263 source:c:\users\mauri\desktop\pp\primerparcial cp2\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"informes.h"
+	"juegos.h"
+	"cliente.h"
+
+1621636800 c:\users\mauri\desktop\pp\primerparcial cp2\informes.h
+	"juegos.h"
+	"cliente.h"
+
+1621635777 source:c:\users\mauri\desktop\pp\primerparcial 1inf - copia\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquiler.h"
+	"cliente.h"
+	"juegos.h"
+	"validaciones.h"
+
+1621635820 c:\users\mauri\desktop\pp\primerparcial 1inf - copia\alquiler.h
+	"cliente.h"
+	"juegos.h"
+
+1621636071 c:\users\mauri\desktop\pp\primerparcial 1inf - copia\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621628013 c:\users\mauri\desktop\pp\primerparcial 1inf - copia\juegos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621576917 c:\users\mauri\desktop\pp\primerparcial 1inf - copia\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1621640667 source:c:\users\mauri\desktop\pp\primerparcial 1inf - copia\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquiler.h"
+	"validaciones.h"
+
+1621634492 source:c:\users\mauri\desktop\pp\primerparcial 1inf - copia\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+
+1621634515 c:\users\mauri\desktop\pp\primerparcial 1inf - copia\datawarehouse.h
+	"juegos.h"
+	"cliente.h"
+
+1621641867 source:c:\users\mauri\desktop\pp\primerparcial 1inf - copia\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"informes.h"
+	"juegos.h"
+	"cliente.h"
+	"alquiler.h"
+
+1621642228 c:\users\mauri\desktop\pp\primerparcial 1inf - copia\informes.h
+	"juegos.h"
+	"cliente.h"
+	"alquiler.h"
+
+1621626438 source:c:\users\mauri\desktop\pp\primerparcial 1inf - copia\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+
+1621641918 source:c:\users\mauri\desktop\pp\primerparcial 1inf - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+	"cliente.h"
+	"alquiler.h"
+	"juegos.h"
+	"informes.h"
+
+1621576917 source:c:\users\mauri\desktop\pp\primerparcial 1inf - copia\validaciones.c
+	"validaciones.h"
+
+1621635777 source:c:\users\mauri\desktop\pp\primerparcial 3inf - copia\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquiler.h"
+	"cliente.h"
+	"juegos.h"
+	"validaciones.h"
+
+1621635820 c:\users\mauri\desktop\pp\primerparcial 3inf - copia\alquiler.h
+	"cliente.h"
+	"juegos.h"
+
+1621636071 c:\users\mauri\desktop\pp\primerparcial 3inf - copia\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621628013 c:\users\mauri\desktop\pp\primerparcial 3inf - copia\juegos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621576917 c:\users\mauri\desktop\pp\primerparcial 3inf - copia\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1621634492 source:c:\users\mauri\desktop\pp\primerparcial 3inf - copia\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+
+1621634515 c:\users\mauri\desktop\pp\primerparcial 3inf - copia\datawarehouse.h
+	"juegos.h"
+	"cliente.h"
+
+1621626438 source:c:\users\mauri\desktop\pp\primerparcial 3inf - copia\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+
+1621576917 source:c:\users\mauri\desktop\pp\primerparcial 3inf - copia\validaciones.c
+	"validaciones.h"
+
+1621642707 source:c:\users\mauri\desktop\pp\primerparcial 3inf - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+	"cliente.h"
+	"alquiler.h"
+	"juegos.h"
+	"informes.h"
+
+1621642878 c:\users\mauri\desktop\pp\primerparcial 3inf - copia\informes.h
+	"juegos.h"
+	"cliente.h"
+	"alquiler.h"
+
+1621642878 source:c:\users\mauri\desktop\pp\primerparcial 3inf - copia\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquiler.h"
+	"validaciones.h"
+
+1621635777 source:c:\users\mauri\desktop\pp\primerparcial 5inf - copia\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquiler.h"
+	"cliente.h"
+	"juegos.h"
+	"validaciones.h"
+
+1621635820 c:\users\mauri\desktop\pp\primerparcial 5inf - copia\alquiler.h
+	"cliente.h"
+	"juegos.h"
+
+1621636071 c:\users\mauri\desktop\pp\primerparcial 5inf - copia\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621628013 c:\users\mauri\desktop\pp\primerparcial 5inf - copia\juegos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621576917 c:\users\mauri\desktop\pp\primerparcial 5inf - copia\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1621642878 source:c:\users\mauri\desktop\pp\primerparcial 5inf - copia\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquiler.h"
+	"validaciones.h"
+
+1621634492 source:c:\users\mauri\desktop\pp\primerparcial 5inf - copia\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+
+1621634515 c:\users\mauri\desktop\pp\primerparcial 5inf - copia\datawarehouse.h
+	"juegos.h"
+	"cliente.h"
+
+1621626438 source:c:\users\mauri\desktop\pp\primerparcial 5inf - copia\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+
+1621576917 source:c:\users\mauri\desktop\pp\primerparcial 5inf - copia\validaciones.c
+	"validaciones.h"
+
+1621643551 source:c:\users\mauri\desktop\pp\primerparcial 5inf - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+	"cliente.h"
+	"alquiler.h"
+	"juegos.h"
+	"informes.h"
+
+1621642878 c:\users\mauri\desktop\pp\primerparcial 5inf - copia\informes.h
+	"juegos.h"
+	"cliente.h"
+	"alquiler.h"
+
+1621643444 source:c:\users\mauri\desktop\pp\primerparcial 5inf - copia\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"informes.h"
+	"juegos.h"
+	"cliente.h"
+	"alquiler.h"
+
+1621635777 source:c:\users\mauri\desktop\pp\primerparcial 5inf - copia - copia\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquiler.h"
+	"cliente.h"
+	"juegos.h"
+	"validaciones.h"
+
+1621635820 c:\users\mauri\desktop\pp\primerparcial 5inf - copia - copia\alquiler.h
+	"cliente.h"
+	"juegos.h"
+
+1621636071 c:\users\mauri\desktop\pp\primerparcial 5inf - copia - copia\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621628013 c:\users\mauri\desktop\pp\primerparcial 5inf - copia - copia\juegos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621576917 c:\users\mauri\desktop\pp\primerparcial 5inf - copia - copia\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1621634492 source:c:\users\mauri\desktop\pp\primerparcial 5inf - copia - copia\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+
+1621634515 c:\users\mauri\desktop\pp\primerparcial 5inf - copia - copia\datawarehouse.h
+	"juegos.h"
+	"cliente.h"
+
+1621626438 source:c:\users\mauri\desktop\pp\primerparcial 5inf - copia - copia\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+
+1621576917 source:c:\users\mauri\desktop\pp\primerparcial 5inf - copia - copia\validaciones.c
+	"validaciones.h"
+
