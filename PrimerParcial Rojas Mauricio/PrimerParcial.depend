@@ -1036,3 +1036,85 @@
 1621576917 source:c:\users\mauri\desktop\pp\primerparcial 5inf - copia - copia\validaciones.c
 	"validaciones.h"
 
+1626289825 source:c:\users\mauri\desktop\tp3 codeblocks\primerparcial rojas mauricio\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alquiler.h"
+	"cliente.h"
+	"juegos.h"
+	"validaciones.h"
+
+1626285249 c:\users\mauri\desktop\tp3 codeblocks\primerparcial rojas mauricio\alquiler.h
+	"cliente.h"
+	"juegos.h"
+
+1621636071 c:\users\mauri\desktop\tp3 codeblocks\primerparcial rojas mauricio\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1626284774 c:\users\mauri\desktop\tp3 codeblocks\primerparcial rojas mauricio\juegos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621576917 c:\users\mauri\desktop\tp3 codeblocks\primerparcial rojas mauricio\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1626406507 source:c:\users\mauri\desktop\tp3 codeblocks\primerparcial rojas mauricio\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"alquiler.h"
+	"validaciones.h"
+
+1621634492 source:c:\users\mauri\desktop\tp3 codeblocks\primerparcial rojas mauricio\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+
+1621634515 c:\users\mauri\desktop\tp3 codeblocks\primerparcial rojas mauricio\datawarehouse.h
+	"juegos.h"
+	"cliente.h"
+
+1626406643 source:c:\users\mauri\desktop\tp3 codeblocks\primerparcial rojas mauricio\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"informes.h"
+	"juegos.h"
+	"cliente.h"
+	"alquiler.h"
+	"validaciones.h"
+
+1626406755 c:\users\mauri\desktop\tp3 codeblocks\primerparcial rojas mauricio\informes.h
+	"juegos.h"
+	"cliente.h"
+	"alquiler.h"
+
+1626285164 source:c:\users\mauri\desktop\tp3 codeblocks\primerparcial rojas mauricio\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+
+1626406725 source:c:\users\mauri\desktop\tp3 codeblocks\primerparcial rojas mauricio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+	"cliente.h"
+	"alquiler.h"
+	"juegos.h"
+	"informes.h"
+
+1621576917 source:c:\users\mauri\desktop\tp3 codeblocks\primerparcial rojas mauricio\validaciones.c
+	"validaciones.h"
+

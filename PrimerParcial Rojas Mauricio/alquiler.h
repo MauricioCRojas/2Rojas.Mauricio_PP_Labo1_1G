@@ -34,8 +34,8 @@ eFecha fechaAlquiler;
  * \param tam tamaño de vector juegos
  * \return Retorna todoOk para verificar si se pudo realizar correctamente
  */
-int altaAlquiler (eAlquiler alquiler[], int tama, int* pId, eCliente clientes[], int tamc, eJuego juegos[], int tam, eLocalidad localidad[], int taml);
-
+int altaAlquiler (eAlquiler alquiler[], int tama, int* pId, eCliente clientes[], int tamc, eJuego juegos[],
+                   int tam, eLocalidad localidad[], int taml, eCategoria categoria[], int tamCAT);
 
 /** \brief Busca posicion libre
  * \param Estructura array alquiler[]

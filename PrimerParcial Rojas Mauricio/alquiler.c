@@ -8,7 +8,8 @@
 #include "validaciones.h"
 
 //Alta cliente
-int altaAlquiler (eAlquiler alquiler[], int tama, int* pId, eCliente clientes[], int tamc, eJuego juegos[], int tam, eLocalidad localidad[], int taml)
+int altaAlquiler (eAlquiler alquiler[], int tama, int* pId, eCliente clientes[], int tamc, eJuego juegos[],
+                   int tam, eLocalidad localidad[], int taml, eCategoria categoria[], int tamCAT)
 {
 
     int todoOk=0;
@@ -30,10 +31,10 @@ int altaAlquiler (eAlquiler alquiler[], int tama, int* pId, eCliente clientes[],
         else
         {
             if(mostrarClientes(clientes, tamc, localidad, taml) && !getNumero(&nuevoAlquiler.codCliente,"Ingrese codigo de cliente: ","Error.\n",10,30,3)&&
-                    mostrarJuegos(juegos, tam) && !getNumero(&nuevoAlquiler.codJuego,"Ingrese codigo de juego: ","Error.\n",10,15,3)&&
+                    mostrarJuegos(juegos, tam, categoria, tamCAT) && !getNumero(&nuevoAlquiler.codJuego,"Ingrese codigo de juego: ","Error.\n",10,15,3)&&
                     !getNumero(&nuevoAlquiler.fechaAlquiler.dia,"Ingrese dia de alquiler 1 a 31: ","Error.\n",1,31,3)&&
                     !getNumero(&nuevoAlquiler.fechaAlquiler.mes,"Ingrese mes de alquiler 1 a 12: ","Error.\n",1,12,3)&&
-                    !getNumero(&nuevoAlquiler.fechaAlquiler.anio,"Ingrese anio de alquiler: ","Error.\n",2020,2021,3))
+                    !getNumero(&nuevoAlquiler.fechaAlquiler.anio,"Ingrese anio de alquiler 2020/2021: ","Error.\n",2020,2021,3))
             {
             nuevoAlquiler.codAlq=*pId;
             nuevoAlquiler.isEmpty=0;

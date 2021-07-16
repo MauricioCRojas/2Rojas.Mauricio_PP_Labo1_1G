@@ -47,7 +47,7 @@ int cargarPrecioJuego(int idJuego, eJuego juegos[], int tam, float* precioJuego)
 /** \brief Muestra un juego
  * \param Estructura de un juego
  */
-void mostrarJuego(eJuego unJuego);
+void mostrarJuego(eJuego unJuego, eCategoria categoria[], int tamC);
 
 
 /** \brief Muestra todos los juegos
@@ -55,4 +55,9 @@ void mostrarJuego(eJuego unJuego);
  * \param tam tamaño de vector juegos
  * \return Retorna todoOk para verificar si se pudo realizar correctamente
  */
-int mostrarJuegos (eJuego juegos[], int tam);
+int mostrarJuegos (eJuego juegos[], int tam, eCategoria categoria[], int tamC);
+
+
+
+//Cargar descripcion categoria
+int cargarDescripcionCategoria(int id, eCategoria categoria[], int tamCAT, char descripcion[]);

@@ -97,7 +97,7 @@ int main()
             }
             break;
         case 5:
-            if(altaAlquiler(alquiler, TAMA, &nextIdAlq, clientes, TAMC, juegos, TAM, localidad, TAML)==1)
+            if(altaAlquiler(alquiler, TAMA, &nextIdAlq, clientes, TAMC, juegos, TAM, localidad, TAML, categoria, TAMCAT)==1)
             {
                 printf("Alta exitosa\n");
             }
@@ -154,20 +154,34 @@ int main()
 
                     break;
                 case 4:
-                    mostrarClientesAvellaneda (clientes, TAMA, localidad, TAML);
+                    mostrarClienteSinAlquilar(alquiler, TAMA, clientes, TAMC, localidad, TAML);
                     system("pause");
 
                     break;
                 case 5:
-                    mostrarClientesQuilmes (clientes, TAMA, localidad, TAML);
+                    mostrarJuegosSinAlquilar(alquiler, TAMA, juegos, TAM, categoria, TAMC);
+
                     system("pause");
                     break;
                 case 6:
-                    mostrarClientesNoAlquilaron (alquiler, TAMA, clientes, TAMC);
+                    telefonosPorFecha(alquiler, TAMA, clientes, TAMC);
                     system("pause");
 
                     break;
                 case 7:
+                    mostrarJuegosMujeres(alquiler, TAMA, clientes, TAMC, juegos, TAM, categoria, TAMCAT);
+                    system("pause");
+                    break;
+                case 8:
+                    juegoFavoritoHombres(alquiler, TAMA, clientes, TAMC, juegos, TAM, categoria, TAMCAT);
+                    system("pause");
+                    break;
+                case 9:
+                    mostrarClientesJuego(alquiler, TAMA, clientes, TAMC, juegos, TAM, categoria, TAMCAT, localidad, TAML);
+                    system("pause");
+
+                    break;
+                case 10:
                     if(mostrarRecaudacionPorFecha(clientes, alquiler, juegos,TAMA, TAMC,TAM))
                     {
                         printf("Informe mostrado correctamente\n");
@@ -179,9 +193,16 @@ int main()
                     }
                     system("pause");
                     break;
-                case 8:
+                case 11:
+                    mostrarClientesAvellaneda (clientes, TAMA, localidad, TAML);
+                    system("pause");
+
                     break;
                 case 12:
+                    mostrarJuegosAlquiladosEnJunin(clientes, TAMA, localidad, TAML, juegos, TAM, alquiler, TAMC);
+                    system("pause");
+                    break;
+                case 13:
                     seguir2='n';
                     break;
                 }
