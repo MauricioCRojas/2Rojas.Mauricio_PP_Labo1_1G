@@ -4,18 +4,53 @@
 #ifndef INFORMES_H_INCLUDED
 #define INFORMES_H_INCLUDED
 
-
-
 #endif // INFORMES_H_INCLUDED
+
+/** \brief Busca ID y valida
+ * \param Id introducido
+ * \param eJuego juegos[], array de juegos
+ * \param tam, tamanio del array de juego
+ * \return retorna 1 si lo encuentra, 0 si no
+ */
 int validarJuego(int id, eJuego juegos[], int tam);
 
 
+/** \brief Muestra juegos de mesa
+ * \param eJuego juegos[], array de juegos
+ * \param tam, tamanio del array de juego
+ * \param eCategoria categoria[], array de categorias
+ * \param tamcat, tamanio del array de categorias
+ * \return retorna 1 si hay juegos de mesa, 0 si no
+ */
 int mostrarJuegosMesa (eJuego juegos[], int tam, eCategoria categoria[], int tamcat);
 
+
+/** \brief Muestra los alquileres que realizo el cliente del Id ingresado
+ * \param eCliente clientes[], array de clientes
+ * \param tamc, tamanio del array de clientes
+ * \param eAlquiler alquiler[], array de alquileres
+ * \param tama, tamanio del array de alquileres
+ * \param eJuego juegos[], array de juegos
+ * \param tam, tamanio del array de juego
+ * \param eLocalidad localidad[], array de localidades
+ * \param taml, tamanio del array de localidades
+ * \return retorna 1 si encuentra el cliente, 0 si no
+ */
 int mostrarAlquileresXCliente (eCliente clientes[], int tamc, eAlquiler alquiler[],
                                int tama, eJuego juegos[], int tam, eLocalidad localidad[], int taml);
 
 
+/** \brief Muestra los importes que realizo el cliente del Id ingresado
+ * \param eCliente clientes[], array de clientes
+ * \param tamc, tamanio del array de clientes
+ * \param eAlquiler alquiler[], array de alquileres
+ * \param tama, tamanio del array de alquileres
+ * \param eJuego juegos[], array de juegos
+ * \param tam, tamanio del array de juego
+ * \param eLocalidad localidad[], array de localidades
+ * \param taml, tamanio del array de localidades
+ * \return retorna 1 si encuentra el cliente, 0 si no
+ */
 int mostrarImportesXCliente (eCliente clientes[], int tamc, eAlquiler alquiler[],
                              int tama, eJuego juegos[], int tam, eLocalidad localidad[], int taml);
 

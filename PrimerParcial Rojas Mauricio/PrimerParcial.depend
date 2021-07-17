@@ -1083,7 +1083,7 @@
 	"juegos.h"
 	"cliente.h"
 
-1626406643 source:c:\users\mauri\desktop\tp3 codeblocks\primerparcial rojas mauricio\informes.c
+1626468497 source:c:\users\mauri\desktop\tp3 codeblocks\primerparcial rojas mauricio\informes.c
 	<stdio.h>
 	<stdlib.h>
 	<ctype.h>
@@ -1094,7 +1094,7 @@
 	"alquiler.h"
 	"validaciones.h"
 
-1626406755 c:\users\mauri\desktop\tp3 codeblocks\primerparcial rojas mauricio\informes.h
+1626468375 c:\users\mauri\desktop\tp3 codeblocks\primerparcial rojas mauricio\informes.h
 	"juegos.h"
 	"cliente.h"
 	"alquiler.h"
